@@ -3,4 +3,4 @@ project(ccwc C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(ccwc main.c)
+add_executable(ccwc src/main.c)
